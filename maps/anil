@@ -1,0 +1,17 @@
+#com#start
+##com
+##s
+3
+##start
+#com
+##com
+king 1 2
+##end
+#com
+##com
+queen 2 1
+prince 4 5
+fdp 44 1
+king-queen
+queen-prince
+prince-fdp

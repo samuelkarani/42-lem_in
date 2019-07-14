@@ -1,0 +1,20 @@
+7
+##start
+r_start 00 00
+r_1 10 60
+r_2 40 30
+r_3 40 00
+r_4 45 70
+r_5 70 20
+r_6 30 60
+##end
+r_end 70 70
+r_start-r_1
+r_start-r_2
+r_start-r_3
+r_1-r_6
+r_4-r_6
+r_4-r_end
+r_2-r_end
+r_3-r_5
+r_5-r_end
