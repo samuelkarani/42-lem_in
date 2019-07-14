@@ -1,6 +1,6 @@
 NAME	=	lem_in
 
-CC		=	gcc -g
+CC		=	gcc
 CFLAGS	=	-Wall -Wextra -Werror -Iincludes
 DEBUG	=	-g -fsanitize=address
 
